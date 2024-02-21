@@ -1,4 +1,4 @@
-package tasks;
+package tasks.car;
 
 public abstract class Car {
 
